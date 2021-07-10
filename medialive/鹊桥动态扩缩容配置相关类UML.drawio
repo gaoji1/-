@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T09:12:54.143Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="k86Ig7xq8Xn4wSnlxD8D" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-10T09:13:25.463Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="5J19ZfCqvhXry3SYc6Va" version="14.8.5" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1638" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -241,6 +241,16 @@
         <mxCell id="tguButMhcNonGKpPtIbg-48" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tguButMhcNonGKpPtIbg-47">
           <mxGeometry x="0.8286" y="-1" relative="1" as="geometry">
             <mxPoint x="-5" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tguButMhcNonGKpPtIbg-49" value="继承" style="endArrow=block;endSize=16;endFill=0;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tguButMhcNonGKpPtIbg-46" target="tguButMhcNonGKpPtIbg-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1390" y="590" as="sourcePoint" />
+            <mxPoint x="1180" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1490" y="460" />
+              <mxPoint x="860" y="460" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
