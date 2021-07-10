@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T09:05:33.014Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="l5JLNCcNIuXbfFlEu0K9" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-10T09:08:40.462Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="cEnVHrnKUgQfHWzkK698" version="14.8.5" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="1796" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1638" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -170,7 +170,7 @@
         <mxCell id="tguButMhcNonGKpPtIbg-36" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;MessageTypeThresholdScalingRuleConfig.CalculationConfig&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-280" y="30" width="370" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tguButMhcNonGKpPtIbg-37" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;MessageTypeThresholdScalingRuleConfig.ScalingRule&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="tguButMhcNonGKpPtIbg-37" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;MessageTypeScalingRuleConfig.ScalingRule&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-280" y="160" width="370" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tguButMhcNonGKpPtIbg-38" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tguButMhcNonGKpPtIbg-33" target="tguButMhcNonGKpPtIbg-36">
@@ -195,6 +195,15 @@
         <mxCell id="tguButMhcNonGKpPtIbg-41" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tguButMhcNonGKpPtIbg-40">
           <mxGeometry x="0.8286" y="-1" relative="1" as="geometry">
             <mxPoint x="1" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tguButMhcNonGKpPtIbg-42" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;SystemScalingRuleConfig&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1030" y="370" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tguButMhcNonGKpPtIbg-43" value="继承" style="endArrow=block;endSize=16;endFill=0;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="tguButMhcNonGKpPtIbg-42" target="tguButMhcNonGKpPtIbg-9">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="940" y="270" as="sourcePoint" />
+            <mxPoint x="1040" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
